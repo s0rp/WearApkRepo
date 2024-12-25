@@ -13,6 +13,8 @@ Zip Şifresi : 12345
 
 İndirdiğiniz dosyaların hashlerini kontrol etmeyi untumayın! [Rehber](https://www.sordum.net/37711) [Alternatif Rehber](https://www.geeksforgeeks.org/getting-hash-of-a-file-using-cmd/)
 
+**Uygulamaları indirirken reklam engelleyici kullanın [UBlock Origin](https://github.com/gorhill/uBlock)**
+
 *Paralı hiçbir uygulama **burada** yayınlanmamıştır.*
 
 ##### [Daha fazla uygulama & oyun için buraya bakın](https://github.com/s0rp/WearApkRepoCR/)
