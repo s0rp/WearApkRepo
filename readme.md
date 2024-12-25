@@ -26,7 +26,7 @@ Zip Şifresi : 12345
 ### Icerikler
 
 - [Oyunlar](#oyunlar)
-- [Araçlar](#araçlar)
+- [Araçlar](#araclar)
 - [Medya](#medya)
   
 ## Oyunlar
@@ -48,7 +48,7 @@ Zip Şifresi : 12345
 YEDEK:
 [MirrorAce](https://mirrorace.org/m/9nw8f) [MultiUp](https://multiup.io/download/6e01b0b7cf6656fab7649f20bbd6dbc0/Subway%20Surfers.zip)
 
-## Araçlar
+## Araclar
 
 ### Anydesk
 
