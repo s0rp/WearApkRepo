@@ -25,9 +25,9 @@ Zip Şifresi : 12345
 
 ### Icerikler
 
-- [Oyunlar](#Oyunlar)
-- [Araçlar](#Araclar)
-- [Medya](#Medya)
+- [Oyunlar](#oyunlar)
+- [Araçlar](#araçlar)
+- [Medya](#medya)
   
 ## Oyunlar
 
@@ -42,10 +42,10 @@ Zip Şifresi : 12345
 - Versiyon : 2.4.1
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/c27c737b2b857f6cac5c51b3973b3dc3/Subway_Surfers.zip) [Qiwi](https://qiwi.gg/file/tyNe7883-SubwaySurfers)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/tyNe7883-SubwaySurfers) [MegaUp](https://megaup.net/c27c737b2b857f6cac5c51b3973b3dc3/Subway_Surfers.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/9nw8f) [MultiUp](https://multiup.io/download/6e01b0b7cf6656fab7649f20bbd6dbc0/Subway%20Surfers.zip)
 
 ## Araçlar
@@ -61,10 +61,10 @@ MIRRORS:
 - Versiyon : 7.2.0
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/103e189f995ef451e9f47855b21b22c0/Anydesk.zip) [Qiwi](https://qiwi.gg/file/udUR5002-Anydesk)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/udUR5002-Anydesk) [MegaUp](https://megaup.net/103e189f995ef451e9f47855b21b22c0/Anydesk.zip)
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/6FGj0) [MultiUp](https://multiup.io/download/be94cb63d2d1faddabb7010b74f4d06b/Anydesk.zip)
 
 ### Bitwarden
@@ -78,10 +78,10 @@ MIRRORS:
 - Versiyon : 2024.10.2
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/13ba330a68cbfb957394255138e057d8/Bitwarden.zip) [Qiwi](https://qiwi.gg/file/f2q96808-Bitwarden)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/f2q96808-Bitwarden) [MegaUp](https://megaup.net/13ba330a68cbfb957394255138e057d8/Bitwarden.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/6FGj1) [MultiUp](https://multiup.io/download/bf3addbe11aaa3c932527ebdc19348ba/Bitwarden.zip)
 
 ### Chrome
@@ -95,10 +95,10 @@ MIRRORS:
 - Versiyon : 122.0.6261.105
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/49b0bd89b11b9562707d537894b58f7c/Chrome.zip) [Qiwi](https://qiwi.gg/file/1yLs7026-Chrome)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/1yLs7026-Chrome) [MegaUp](https://megaup.net/49b0bd89b11b9562707d537894b58f7c/Chrome.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/6FGj2) [MultiUp](https://multiup.io/download/fc88b79be8159322e22c7a3cba2742a2/Chrome.zip)
 
 ### Geforce Now
@@ -112,10 +112,10 @@ MIRRORS:
 - Versiyon : 1.0.3
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/fd7f35ba731e9fa73260f7a94f70ac6c/Geforce_Now.zip) [Qiwi](https://qiwi.gg/file/bp5z6947-GeforceNow)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/bp5z6947-GeforceNow) [MegaUp](https://megaup.net/fd7f35ba731e9fa73260f7a94f70ac6c/Geforce_Now.zip)
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/6FGj3) [MultiUp](https://multiup.io/download/0b642bcd55842f245071b85d972af180/Geforce%20Now.zip)
 
 ### Google Files
@@ -129,10 +129,10 @@ MIRRORS:
 - Versiyon : 1.5526.697330265.0-release
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/7e3e70b8518cb4d9b5840fc1224279f1/Google_Files.zip) [Qiwi](https://qiwi.gg/file/mXLV4966-GoogleFiles)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/mXLV4966-GoogleFiles) [MegaUp](https://megaup.net/7e3e70b8518cb4d9b5840fc1224279f1/Google_Files.zip)
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/6FGj4) [MultiUp](https://multiup.io/download/7dc6511785c049cc6d4e688b2b309b69/Google%20Files.zip)
 
 ### Google News
@@ -146,10 +146,10 @@ MIRRORS:
 - Versiyon : 5.120.0.696279761
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/0589b063af16de24bd3988847cfa2612/Google_News.zip) [Qiwi](https://qiwi.gg/file/hdm76934-GoogleNews)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/hdm76934-GoogleNews) [MegaUp](https://megaup.net/0589b063af16de24bd3988847cfa2612/Google_News.zip)
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/81Bdv) [MultiUp](https://multiup.io/download/5e29c2a012132f6b4a2291fedeeebb38/Google%20News.zip)
 
 ### PPSSPP
@@ -163,10 +163,10 @@ MIRRORS:
 - Versiyon : 1.9.4
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/6d0240de2566fd529a97eacc34b4bc5e/ppsspp.zip) [Qiwi](https://qiwi.gg/file/17kS8915-ppsspp)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/17kS8915-ppsspp) [MegaUp](https://megaup.net/6d0240de2566fd529a97eacc34b4bc5e/ppsspp.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/81Bdw) [MultiUp](https://multiup.io/download/97cbda23e51a7577672be2eb17283aef/ppsspp.zip)
 
 ### Revanced Microg
@@ -180,10 +180,10 @@ MIRRORS:
 - Versiyon : 0.2.24.220220
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/217722050b844969ad9856b7b8f39f6e/Revanced_Microg.zip) [Qiwi](https://qiwi.gg/file/4TZN9803-RevancedMicrog)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/4TZN9803-RevancedMicrog) [MegaUp](https://megaup.net/217722050b844969ad9856b7b8f39f6e/Revanced_Microg.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/81Bdy) [MultiUp](https://multiup.io/download/edafd4a599172d0526bd35939561cd14/Revanced%20Microg.zip)
 
 ### Revanced Gms
@@ -195,10 +195,10 @@ MIRRORS:
 - Versiyon : 0.3.1.4.240913
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/c5ba1d3c202aee5b672866ff9655f2fa/Revanced_Gms.zip) [Qiwi](https://qiwi.gg/file/uGSB9801-RevancedGms)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/uGSB9801-RevancedGms) [MegaUp](https://megaup.net/c5ba1d3c202aee5b672866ff9655f2fa/Revanced_Gms.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/81Bdx) [MultiUp](https://multiup.io/download/a29da7762562325ef90fc60e8eaf4afb/Revanced%20Gms.zip)
 
 ### Tor Browser
@@ -212,10 +212,10 @@ MIRRORS:
 - Versiyon : 115.2.1-release (13.5.2)
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/59ed9a8d03f740ed5cbb7dae72c6ba53/Tor.zip) [Qiwi](https://qiwi.gg/file/fS2k3897-Tor)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/fS2k3897-Tor) [MegaUp](https://megaup.net/59ed9a8d03f740ed5cbb7dae72c6ba53/Tor.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/81BdD) [MultiUp](https://multiup.io/download/80a182743cecef896e14facff6798d8e/Tor.zip)
 
 ## Medya
@@ -231,10 +231,10 @@ MIRRORS:
 - Versiyon : 19.16.39
 - Ekstra : Açılmadığı zaman, uçak moduna alıp açmayı deneyin.
 
-DIRECT:
-[MegaUp](https://megaup.net/dcdb364b031ec47888e0cdd83bf273a3/Revanced_Youtube.zip) [Qiwi](https://qiwi.gg/file/eFTH8103-RevancedYoutube)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/eFTH8103-RevancedYoutube) [MegaUp](https://megaup.net/dcdb364b031ec47888e0cdd83bf273a3/Revanced_Youtube.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/81Bdz) [MultiUp](https://multiup.io/download/d158ba32efca361b3cd4732f1bed4f6a/Revanced%20Youtube.zip)
 
 ### Tiktok Lite
@@ -248,11 +248,11 @@ MIRRORS:
 - Versiyon : 37.0.2
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/31b658e15ef18c87a3d4c7eb02e6f91e/Tiktok_Lite.zip) [Qiwi](https://qiwi.gg/file/fRkS3889-TiktokLite)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/fRkS3889-TiktokLite) [MegaUp](https://megaup.net/31b658e15ef18c87a3d4c7eb02e6f91e/Tiktok_Lite.zip) 
 
-MIRRORS:
-[MirrorAce](https://mirrorace.org/m/81BdC) [MultiUp](https://multiup.io/download/247b1137880273756c50c873d9c41ff0/Tiktok%20Lite.zip)
+YEDEK:
+[MultiUp](https://multiup.io/download/247b1137880273756c50c873d9c41ff0/Tiktok%20Lite.zip) [MirrorAce](https://mirrorace.org/m/81BdC) 
 
 ### Spotify Lite
 
@@ -265,10 +265,10 @@ MIRRORS:
 - Versiyon : 1.9.0.56456
 - Ekstra : -
 
-DIRECT:
-[MegaUp](https://megaup.net/216f63760de020f1a49d094eaa3c40f1/Spotify_Lite.zip) [Qiwi](https://qiwi.gg/file/fdoc7877-SpotifyLite)
+İNDİR (Önerilen):
+[Qiwi (Önerilen)](https://qiwi.gg/file/fdoc7877-SpotifyLite) [MegaUp](https://megaup.net/216f63760de020f1a49d094eaa3c40f1/Spotify_Lite.zip) 
 
-MIRRORS:
+YEDEK:
 [MirrorAce](https://mirrorace.org/m/9nw8e) [MultiUp](https://multiup.io/download/ca016d9a63e1c648e364ea9f938b3d9a/Spotify%20Lite.zip)
 
 # [⬆ Başa Dön ⬆](#Icerikler)
