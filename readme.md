@@ -1,5 +1,7 @@
 *English version will be published soon.*
 
+**Linkler 1-2 haftaya güncellenecek.**
+
 ## AMAÇ
 
 Bu depo wear os cihazlarda çalışan uygulamaların listesini sunar.
