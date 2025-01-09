@@ -1,6 +1,6 @@
 *English version will be published soon.*
 
-**Linkler 1-2 haftaya güncellenecek.**
+**Linkler 1-2 haftaya güncellenecek. (Şuanda sadece Multiup linklerinde Krakenfiles çalışıyor.)**
 
 ## AMAÇ
 
